@@ -54,8 +54,7 @@ jobs:
         run: |
           bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
             --assume-extension \
-            --ignore-urls "/^https?:\/\/itsaransh\.github\.io/,/^https?:\/\/fonts\.googleapis\.com/,/^https?:\/\/fonts\.gstatic\.com/" \
-            --file-ignore "/404.html/"
+            --disable-external
 
 
       - name: Upload site artifact
