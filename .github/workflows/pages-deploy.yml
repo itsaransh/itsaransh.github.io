@@ -52,11 +52,11 @@ jobs:
 
       - name: Test site
         run: |
-            bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
-              --assume-extension \
-              --disable-external \
-              --ignore-urls "/^https?:\/\/itsaransh\.github\.io/"
-              --file-ignore "/404.html/"
+          bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
+            --assume-extension \
+            --ignore-urls "/^https?:\/\/itsaransh\.github\.io/,/^https?:\/\/fonts\.googleapis\.com/,/^https?:\/\/fonts\.gstatic\.com/" \
+            --file-ignore "/404.html/"
+
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
