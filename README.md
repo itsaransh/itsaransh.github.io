@@ -7,7 +7,7 @@
 
 This is a public learning log where I document my journey of learning **backend development and computer systems from scratch**.
 
-I am starting from scratch kind of, and learning and documenting stuff i learn. I hope to build foundations, consistency, and understanding over time.
+I am starting from scratch kind of, and learning and documenting stuff I learn. I hope to build foundations, consistency, and understanding over time.
 
 I made this log to:
 - keep myself accountable
