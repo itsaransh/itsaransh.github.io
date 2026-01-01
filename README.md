@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 # About this learning log
 
 ### **TLDR**: What am I actually doing here? 
