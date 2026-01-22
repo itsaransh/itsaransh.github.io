@@ -5,8 +5,6 @@ tags: [Python, Linux]
 ---
 
 
-# Catch-up Log — Python & Linux Foundations (During Exams)
-
 
 I was not able to log due to exams, but I continued learning consistently.
 This entry is a compressed summary of what I learned during that period, mainly covering Python fundamentals and Linux basics.
