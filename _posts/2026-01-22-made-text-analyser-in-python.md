@@ -9,4 +9,4 @@ tags: [Python]
 ## Usage-
 ### `python3 main.py <path_to_book>`
 
-## Link to the Github Repo- TEXT-ANALYSIS-BOT[https://github.com/itsaransh/book-analysis-bot]
+## Link to the Github Repo- [TEXT ANALYSIS BOT](https://github.com/itsaransh/book-analysis-bot)
